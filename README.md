@@ -1,6 +1,7 @@
 # 4SF25CI050_3A
 File Handling:
 • open() –  It helps to open a file.
+
 • read() – It helps to reads file contents.
 • write() – It helps to writes content present in the perticular file.
 • readlines() – It reads lines present in the file.
