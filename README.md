@@ -11,6 +11,7 @@ File Handling:
 • with open() – Handles files safely.
 
 Numpy:
+
 • np.array() – It helps to creates an array.
 • np.random.randint() – Generates random integers given in the range.
 • arr[:, 2] – Helps to access the columns.
@@ -20,6 +21,7 @@ Numpy:
 • np.sort() – Sorts array elements.
 
 Pandas:
+
 • pd.DataFrame() – It helps creates a DataFrame.
 • df.loc[] – Selects rows and columns using labels.
 • df.drop() – Removes rows or columns.
